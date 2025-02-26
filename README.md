@@ -11,7 +11,7 @@ This project demonstrates how to generate images from text prompts using FastAPI
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Text-to-Image-Generation.git
+    git clone https://github.com/Pahinithi/ai-image-generator-fastapi.git
     cd Text-to-Image-Generation
     ```
 
